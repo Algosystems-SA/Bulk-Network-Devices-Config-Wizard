@@ -5,7 +5,8 @@ When used in conjuction with the Deadpool feature of Nagios it can significantly
 It is developed for Algosystems S.A. 
 
 # Installation
-Upload the ziped wizardbnd folder to Nagios under Admin / Manage Config Wizzards on the left panel
+Upload the ziped wizardbnd folder to Nagios under Admin / Manage Config Wizzards on the left panel.
+The application requires another project as a dependency wich can be found at: https://github.com/Algosystems-SA/nagios_wizard_python_toolbox
 
 # Usage
 You can upload a csv file containing a list of hosts their hostgroup and geolocation coordinates, it will parse the labels on the first line to map the values.
@@ -18,10 +19,6 @@ The names of the labels should be:
 -- Longitude
 
 Only IP is mandatory, all other fields are optional.
-
-# Known Issues
-
-The application requires another project as a dependency wich can be found at: https://github.com/Algosystems-SA/nagios_wizard_python_toolbox
 
 # Getting Help
 

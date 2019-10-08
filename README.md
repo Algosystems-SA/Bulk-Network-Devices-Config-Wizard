@@ -19,12 +19,9 @@ The names of the labels should be:
 
 Only IP is mandatory, all other fields are optional.
 
-# TODO
-Upload the python toolbox needed by the wizzard
-
 # Known Issues
 
-The application requires another project as a dependency wich will be added shortly
+The application requires another project as a dependency wich can be found at: https://github.com/Algosystems-SA/nagios_wizard_python_toolbox
 
 # Getting Help
 
